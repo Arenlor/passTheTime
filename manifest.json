@@ -1,0 +1,10 @@
+{
+	"developer": {
+		"name": "Arenlor",
+		"url": "https://arenlor.com/"
+	},
+	"description": "An addon to help pass the time in Firefox.",
+	"manifest_version": 2,
+	"name": "Pass the Time",
+	"version": "0.0.1"
+}
